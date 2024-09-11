@@ -26,9 +26,8 @@ eigenvalues, eigenvectors = np.linalg.eig(A)
 print(f"Eigen values are {np.round(eigenvalues, 2)} and Eigen Vectors are {np.round(eigenvectors, 8)}")
 
 ```
-## Output:
-
-![Screenshot (1)](https://github.com/user-attachments/assets/0d1384f5-c332-4a4c-bc19-1565cec062a3)
+## Output
+![ex 4 and cr](https://github.com/user-attachments/assets/7c705bb0-c973-4360-83b9-241c44a752cd)
 
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
